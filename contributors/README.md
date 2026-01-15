@@ -7,4 +7,4 @@ To make your first contribution:
 3. Do not remove other names
 
 ## Contributors list
-- example-user
+- ayush rai
